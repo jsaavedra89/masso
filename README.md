@@ -155,3 +155,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [node.js]: https://nodejs.org/
 [npm]: https://www.npmjs.com/
 # masso
+# masso
